@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import About from "./components/About";
 import Alert from "./components/Alert";
 import Textform from "./components/Textform";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 // import bgimg from 'bgimg.jpg';
 import Navbar from "./components/Navbar";
 
